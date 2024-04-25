@@ -1,1 +1,1 @@
-# Classification-using-SVD
+# MNIST Classification-using-SVD
